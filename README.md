@@ -5,7 +5,7 @@ A clean, modern **hero landing page** for a digital workspace platform, built en
 sticky navigation, headline structure, call-to-action buttons, floating information cards,
 a positioned dashboard preview, and a fixed chat widget.
 
-## 📁 File Structure
+## File Structure
 
 ```
 T20_Tailwind_Hero_Landing_Page/
@@ -15,12 +15,12 @@ T20_Tailwind_Hero_Landing_Page/
 └── README.md     # This file
 ```
 
-## 🚀 How to Run
+## How to Run
 
 1. Open `index.html` in any modern browser (Chrome, Edge, Firefox, Safari).
    An internet connection is required for the Tailwind CDN, Google Fonts, and images.
 
-## ✨ Features
+## Features
 
 | Section | Details |
 |---|---|
@@ -32,7 +32,7 @@ T20_Tailwind_Hero_Landing_Page/
 | **Chat Widget** | 💬-style chat icon fixed at `bottom-6 right-6 z-50`, opens a small panel on click |
 | **Responsive** | Mobile hamburger menu; floating cards switch to a static grid on small screens |
 
-## 🛠️ Tailwind Positioning Utilities Used
+## Tailwind Positioning Utilities Used
 
 - **relative** — hero containers, CTA button group, dashboard preview wrapper
 - **absolute** — dashboard image, floating info cards, secondary CTA button
